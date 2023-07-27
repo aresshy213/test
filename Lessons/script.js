@@ -1,0 +1,1 @@
+var leftBorderWidth = 1;
